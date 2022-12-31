@@ -14,11 +14,14 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
+  palette_generator: ^0.3.3+2
+  shared_preferences: ^2.0.15
+  twitter_api_v2: ^4.7.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
+  http: ^0.13.5
   flutter_lints: ^2.0.0
 
 flutter:
